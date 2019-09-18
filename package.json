@@ -2,7 +2,6 @@
   "name": "mieotpl-egg-mongoo-ts",
   "version": "1.0.0",
   "description": "eggjs template for mieo",
-  "private": true,
   "egg": {
     "typescript": true,
     "declarations": true
