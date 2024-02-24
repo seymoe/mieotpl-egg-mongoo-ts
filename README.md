@@ -7,6 +7,7 @@ mieo template using typescript && egg
 ### Development
 
 ```bash
+$ npm install -g npm@latest
 $ npm i
 $ npm run dev
 $ open http://localhost:7001/
